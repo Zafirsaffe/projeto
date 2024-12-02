@@ -42,7 +42,8 @@ body * {
 }
 
 #tronco-1 {
-  width: 360px;
+  width: 100%;
+  max-width: 588px;
   margin: 56px auto 0px auto; /* usamos "margin: auto;" para centralizar as caixas, porém existe uma regra no CSS que não aplica nem em cima nem embaixo apenas na largura*/
 
   /* essa margin é um junção dos seguintes códigos:
